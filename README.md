@@ -1,5 +1,6 @@
 
-![CI](https://github.com/byvfx/learn-cidi-starter/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/byvfx/learn-cidi-starter/actions/workflows/ci.yml/badge.svg?branch=main)
+
 
 
 # learn-cicd-starter (Notely)
